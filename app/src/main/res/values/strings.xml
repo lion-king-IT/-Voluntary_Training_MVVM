@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MVVM_Training</string>
+    <string name="count_up">カウントアップ！</string>
 </resources>
